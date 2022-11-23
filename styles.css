@@ -1,5 +1,5 @@
 body {
-    background-image: url('/static/city-background.jpg');
+    background-image: url('city-background.jpg');
     background-size: cover;
     margin:0;
 }
@@ -78,7 +78,7 @@ header{
 }
 
 .picholder{
-    background: url("/static/andrewProfile.jpg");
+    background: url("andrewProfile.jpg");
     background-size: contain;
     width:50%;
     border: 3px solid white;
